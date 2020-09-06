@@ -21,4 +21,7 @@
   <a href="https://github.com/tonykipkemboi?tab=followers">
     <img src="https://img.shields.io/github/followers/tonykipkemboi?label=followers&logo=GitHub&style=for-the-badge" alt="GitHub badge"/>
   </a>
+  <a href="http://twitter.com/Tonykip92">
+    <img src="https://img.shields.io/twitter/follow/Tonykip92?label=Twitter&logo=twitter&style=for-the-badge"/>
+  </a>
 </p>
