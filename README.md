@@ -29,12 +29,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919">
 
 
-## t-rex-runner
-
-The trex runner game extracted from chrome offline err page.
-
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
-
-
-![chrome offline game cast](assets/screenshot.gif)
 
