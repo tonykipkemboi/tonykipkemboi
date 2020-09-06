@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jambo, I'm Tony Kipkemboi a.k.a Kip! 👋
 
 
 
@@ -12,3 +12,4 @@
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I am originally from Kenya and currently an active duty U.S. Army soldier
 
+<img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
