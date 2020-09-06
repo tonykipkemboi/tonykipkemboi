@@ -1,9 +1,5 @@
 ### Jambo, I'm Tony Kipkemboi a.k.a Kip! 👋
 
-
-[![](https://img.shields.io/badge/LinkedIn-tonykipkemboi-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tonykipkemboi/)
-[![](https://img.shields.io/badge/Gmail-iamtonykipkemboi%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:iamtonykipkemboi@gmail.com)
-
 <p align="left">
   <a href="https://github.com/tonykipkemboi?tab=followers">
     <img src="https://img.shields.io/github/followers/tonykipkemboi?label=followers&logo=GitHub&style=for-the-badge" alt="GitHub badge"/>
@@ -11,10 +7,13 @@
   <a href="http://twitter.com/Tonykip92">
     <img src="https://img.shields.io/twitter/follow/Tonykip92?label=Twitter&logo=twitter&style=for-the-badge"/>
   </a>
+  <a href="http://linkedin.com/in/tonykipkemboi">
+    <img src="https://img.shields.io/badge/LinkedIn-tonykipkemboi-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
+  </a>
+  <a href="https://mail.google.com/mail">
+    <img src="https://img.shields.io/badge/Gmail-iamtonykipkemboi%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black"/>
+  </a>
 </p>
-
-
-
 
 
 - 🔭 I’m currently working on ... Master's in CS @Upenn 
