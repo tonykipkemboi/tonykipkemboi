@@ -12,7 +12,7 @@
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... Originally from Kenya and currently an active duty U.S. Army soldier
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/tonykipkemboi?tab=followers">
     <img src="https://img.shields.io/github/followers/tonykipkemboi?label=followers&logo=GitHub&style=for-the-badge" alt="GitHub badge"/>
   </a>
