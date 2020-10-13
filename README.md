@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on ... any projects to boost my learning
 - 🤔 I’m looking for help with ... everything programming
 - 💬 Ask me about ... anything!
-- 📫 How to reach me: ... iamtonykipkemboi@gmail.com
+- 📫 How to reach me: ... iamtonykipkemboi@gmail.com OR tonykip@seas.upenn.edu
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... Originally from Kenya and currently an active duty U.S. Army soldier
 
