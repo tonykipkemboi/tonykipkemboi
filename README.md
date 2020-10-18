@@ -17,6 +17,8 @@
   <a href="https://mail.google.com/mail">
     <img src="https://img.shields.io/badge/Gmail-iamtonykipkemboi%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black"/>
   </a>
+  <a href="https://wakatime.com/badge/github/tonykipkemboi/tonykipkemboi">
+    <img src="https://wakatime.com/badge/github/tonykipkemboi/tonykipkemboi.svg"></a>
 </p>
 
 
@@ -35,4 +37,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919">
 
 
-https://wakatime.com/badge/github/tonykipkemboi/tonykipkemboi.svg
+
+
+
