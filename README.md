@@ -35,4 +35,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919">
 
 
-
+<figure><embed src="https://wakatime.com/share/@7bf403c7-7158-4d0d-8ca0-4e81abb16e8a/e81c5cc0-a6ad-4789-b0a7-a8399d84d367.svg"></embed></figure>
