@@ -8,9 +8,6 @@
   <a href="https://github.com/tonykipkemboi?tab=followers">
     <img src="https://img.shields.io/github/followers/tonykipkemboi?label=followers&logo=GitHub&style=for-the-badge" alt="GitHub badge"/>
   </a>
-  <a href="http://twitter.com/Tonykip92">
-    <img src="https://img.shields.io/twitter/follow/Tonykip92?label=Twitter&logo=twitter&style=for-the-badge"/>
-  </a>
   <a href="http://linkedin.com/in/tonykipkemboi">
     <img src="https://img.shields.io/badge/LinkedIn-tonykipkemboi-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
   </a>
@@ -19,6 +16,9 @@
   </a>
   <a href="https://wakatime.com/badge/github/tonykipkemboi/tonykipkemboi">
     <img src="https://wakatime.com/badge/github/tonykipkemboi/tonykipkemboi.svg"></a>
+  <a href="http://twitter.com/Tonykip92">
+    <img src="https://img.shields.io/twitter/follow/Tonykip92?label=Twitter&logo=twitter&style=for-the-badge"/>
+  </a>
 </p>
 
 
