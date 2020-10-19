@@ -18,7 +18,7 @@
 - ⚡ Fun fact: Originally from Kenya and currently an active duty U.S. Army soldier
 
 <details>
-<summary>My GitHub Stats 📈</summary>
+<summary> 📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/>
 </details>
 </p>
