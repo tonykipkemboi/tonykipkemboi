@@ -10,7 +10,7 @@
 </p>
 
 
-<p>
+<p align="center">
 
 - 🌱 I’m currently learning Python & Java
 - 💬 Ask me about my journey, military service, master's degree program, living in Kenya and anything else!
