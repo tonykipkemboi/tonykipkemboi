@@ -11,7 +11,7 @@
 
 <p align="center">
 
-- 🌱 I’m currently learning Python & Java
+- 🌱 I’m currently learning <code>Python & Java</code>
 - 💬 Ask me about my journey, military service, master's degree program, living in Kenya and anything else!
 - 📫 Reach me at: [tonykip@seas.upenn.edu]
 - 😄 Pronouns: He/Him/His
@@ -22,6 +22,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/>
 </details>
 </p>
+
+<h1 align="center"><em>Stay happy!<em></h1>
 
 
 
