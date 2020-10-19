@@ -7,6 +7,9 @@
 <a href=https://linkedin.com/in/tonykipkemboi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="tonykip" height="20" width="20" /></a>
 <a href=https://github.com/tonykipkemboi?tab=followers target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="tonykip" height="20" width="20" /></a>
 <a href=https://twitter.com/Tonykip92 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="tonykip" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/tonykip">
+<img align="center" alt="Tony's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 </p>
 
 <p align="center">
@@ -18,10 +21,18 @@
 - ⚡ Fun fact: Originally from Kenya and currently an active duty U.S. Army soldier
 
 <details>
-<summary> 📈 My GitHub Stats</summary>
+<summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/>
 </details>
 </p>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![](https://visitor-badge.glitch.me/badge?page_id=tonykipkemboi.tonykipkemboi)
 
 <h1 align="center"><em>Stay happy & motivated!<em></h1>
 
