@@ -12,8 +12,9 @@
 </a>
 </p>
 
-<p align="center">
-
+**About me:**
+<p align="center"> 
+  
 - 🌱 I’m currently learning <code>Python & Java</code>
 - 💬 Ask me about my journey, military service, master's degree program, living in Kenya and anything else!
 - 📫 Reach me at: [tonykip@seas.upenn.edu]
