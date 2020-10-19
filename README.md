@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, It's Tony</h1>
-<h3 align="center">CS @ <a href=https://www.upenn.edu/ target="blank">Upenn</a>, Soldier @ <a href=https:https://www.army.mil/>U.S. Army.</a></a></h3>
+<h3 align="center">Graduate CS student @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">Upenn (MCIT Online)</a> & an active duty Soldier @ <a href=https:https://www.army.mil/>U.S. Army</a></a></h3>
 
 <p align="center">
 <a href=mailto:tonykip@seas.upenn.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="tonykip" height="20" width="20" /></a>
