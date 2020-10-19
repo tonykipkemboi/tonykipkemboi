@@ -23,7 +23,7 @@
 </details>
 </p>
 
-<h1 align="center"><em>Stay happy!<em></h1>
+<h1 align="center"><em>Stay happy & motivated!<em></h1>
 
 
 
