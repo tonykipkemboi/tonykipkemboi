@@ -21,8 +21,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Originally from Kenya and currently an active duty U.S. Army soldier
 
-*📈 My GitHub Stats:*
--
+**My GitHub Stats:**
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/>
 </p>
 
