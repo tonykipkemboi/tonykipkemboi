@@ -26,11 +26,6 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/>
 </p>
 
-**Languages and Tools:**  
-
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</code>
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java</code>
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
 
 **Visitor Count:**
 - ![](https://visitor-badge.glitch.me/badge?page_id=tonykipkemboi.tonykipkemboi)
