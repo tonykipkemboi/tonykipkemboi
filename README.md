@@ -17,19 +17,16 @@
 **About me:**
 <p align="center"> 
   
-- 🌱 I’m currently learning <code>Python & Java</code>
+- 🌱 I’m currently learning <code>Python, Java & TensorFlow</code>
 - 💬 Ask me about my journey, military service, master's degree program, living in Kenya and anything else!
-- 📫 Reach me at: [tonykip@seas.upenn.edu]
+- 📫 Reach me at: [tonykip[at]seas.upenn.edu]
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Originally from Kenya and currently an active duty U.S. Army soldier
 
 **My GitHub Stats:**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/>
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykipkemboi&theme=vue-dark"/>
 </p>
-
-
-**Visitor Count:**
-- ![](https://visitor-badge.glitch.me/badge?page_id=tonykipkemboi.tonykipkemboi)
 
 <h1 align="center"><em>Stay happy & motivated!<em></h1>
 
