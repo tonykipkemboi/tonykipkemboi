@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/tonykipkemboi/tonykipkemboi/master/banr.gif" width="1000px">
 
 <h1 align="center">Hi there, thank you for stopping by my profile 😃 </h1>
 
