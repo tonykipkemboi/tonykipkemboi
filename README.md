@@ -14,7 +14,7 @@
 </a>
 </p>
 
-**About me:**
+## About me
 <p align="center"> 
   
 - 🌱 I’m currently learning <code>Python, Java & TensorFlow</code>
@@ -22,13 +22,25 @@
 - 📫 Reach me at: [tonykip[at]seas.upenn.edu]
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Originally from Kenya and currently an active duty U.S. Army soldier
+## Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-**My GitHub Stats:**
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api username=tonykipkemboi&&show_icons=true&title_color=3498DB&icon_color=2ECC71&text_color=ffffff&bg_color=191919"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykipkemboi&theme=vue-dark"/>
-</p>
+## My GitHub Stats
+<a href="https://github.com/tonykipkemboi/tonykipkemboi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykipkemboi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/tonykipkemboi/tonykipkemboi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-<h1 align="center"><em>Stay happy & motivated!<em></h1>
+  
+
+
+<p><h1 align="center"><em>Stay happy & motivated!<em></h1></p>
 
 
 
