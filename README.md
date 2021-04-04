@@ -17,11 +17,11 @@
 ## About me
 <p align="center"> 
   
-- 🌱 I’m currently learning <code>Python, Java & TensorFlow</code>
+- 🌱 I’m currently learning <code>Java & TensorFlow</code>
 - 💬 Ask me about my journey, military service, master's degree program, living in Kenya and anything else!
 - 📫 Reach me at: [tonykip[at]seas.upenn.edu]
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Originally from Kenya and currently an active duty U.S. Army soldier
+- ⚡ Fun fact: Originally from Kenya --> Recruited to run Collegiate Track & XC with full scholarship in the U.S. --> Joined The U.S. Army!
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
