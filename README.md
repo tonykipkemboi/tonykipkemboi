@@ -2,15 +2,18 @@
 
 <h1 align="center">Hi there, thank you for stopping by my profile 😃 </h1>
 
-<h3 align="center">CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a></h3>
+<h3 align="center">CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
+</h3>
 
 <p align="center">
-<a href=mailto:tonykip@seas.upenn.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="tonykip" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/tonykipkemboi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="tonykip" height="20" width="20" /></a>
-<a href=https://github.com/tonykipkemboi?tab=followers target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="tonykip" height="20" width="20" /></a>
-<a href=https://twitter.com/Tonykip92 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="tonykip" height="20" width="20" /></a>
+<a href=mailto:tonykip@seas.upenn.edu target="blank">
+  <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="tonykip" height="20" width="20" />
+</a>
+<a href=https://linkedin.com/in/tonykipkemboi target="blank">
+  <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="tonykip" height="20" width="20" />
+</a>
 <a href="https://www.hackerrank.com/tonykip">
-<img align="center" alt="Tony's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Tony's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 </p>
 
@@ -30,19 +33,16 @@
 
 ## My GitHub Stats
 <a href="https://github.com/tonykipkemboi/tonykipkemboi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykipkemboi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/tonykipkemboi/tonykipkemboi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tony's GitHub Stats" />
 </a>
 
   
 
-
-<p><h1 align="center"></h1></p>
-
-
-
-
-
-
+<h1>
+<a href=https://twitter.com/Tonykip92 target="blank">
+  <img alt="Tonykip92" src="https://img.shields.io/twitter/follow/Tonykip92">
+</a>
+<a href=https://github.com/tonykipkemboi?tab=followers target="blank">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/tonykipkemboi?style=social">
+</a>
+</h1>
