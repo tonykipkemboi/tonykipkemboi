@@ -31,13 +31,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=red&color=008080)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=red&color=FF0000)
 
-## My GitHub Stats
-<a href="https://github.com/tonykipkemboi/tonykipkemboi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonykipkemboi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tony's GitHub Stats" />
-</a>
-
-  
-
 <h1>
 <a href=https://twitter.com/Tonykip92 target="blank">
   <img alt="Tonykip92" src="https://img.shields.io/twitter/follow/Tonykip92">
