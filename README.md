@@ -4,13 +4,13 @@
   </br>
   <samp>
     </br>
-      <img src="assets/wav.gif" width="410px"> 
+      <img src="assets/wav.gif" width="450px"> 
     <br/>
      </br>
       I am a CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
     <br/>
     </br>
-      <img src="assets/col.svg" width="500px"> 
+      <img src="assets/col.svg" width="450px"> 
     </br>
   <br/>
   </br>
@@ -19,7 +19,7 @@
   <br/>
   </div>
     </br>
-      <img src="assets/vc.svg" width="800px">
+      <img src="assets/vc.svg" width="450px">
     <br/>
   <samp></br> Socials & Stuff: <br/></samp>
   </br>
