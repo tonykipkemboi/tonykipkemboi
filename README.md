@@ -14,7 +14,7 @@
     </br>
   <br/>
   </br>
-      I am interested in various topics: AI/ML, Finance, Rare Cancer Research, and Sustainability
+      I am interested in various topics: AI/ML, Venture Capital & Startups, Rare Cancer Research, and Sustainability
   </samp>
   <br/>
   </div>
