@@ -1,21 +1,27 @@
 <p align="center">
   </br>
+      <samp>Hi, thank you for stopping by my profile!</samp>
+  </br>
   <samp>
     </br>
-      Hi there, thank you for stopping by my profile
+      <img src="assets/wav.gif" width="450px"> 
     <br/>
-      <img src="assets/col.svg" width="450px"> 
-    </br>
-    </br>
+     </br>
       I am a CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
     <br/>
+    </br>
+      <img src="assets/col.svg" width="450px"> 
+    </br>
+  <br/>
+  </br>
+      I am interested in various topics: AI/ML, Finance, Rare Cancer Research, and Sustainability
   </samp>
-  
+  <br/>
   </div>
     </br>
       <img src="assets/vc.svg" width="450px">
     <br/>
-  <samp> Socials & Stuff:</samp>
+  <samp></br> Socials & Stuff: <br/></samp>
   </br>
     <a href="https://www.linkedin.com/in/peppys/" target="blank"><samp>Linkedin</samp></a>
   </br>
