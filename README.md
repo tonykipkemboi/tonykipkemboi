@@ -14,7 +14,7 @@
     </br>
   <br/>
   </br>
-      I am interested in various topics: AI/ML, Venture Capital & Startups, Rare Cancer Research, and Sustainability
+      </br>I am interested in various topics:<br/></br>AI/ML, Venture Capital & Startups, Rare Cancer Research, Cryptocurrency, and Space & Rockets<br/>
   </samp>
   <br/>
   </div>
@@ -23,7 +23,7 @@
     <br/>
   <samp></br> Socials & Stuff: <br/></samp>
   </br>
-    <a href="https://www.linkedin.com/in/peppys/" target="blank"><samp>Linkedin</samp></a>
+    <a href="https://www.linkedin.com/in/tonykipkemboi/" target="blank"><samp>Linkedin</samp></a>
   </br>
     <a href="https://www.hackerrank.com/tonykip" target="blank"><samp>Hackerrank</samp></a>
   </br>
