@@ -1,6 +1,6 @@
 <p align="center">
   </br>
-      <samp>Hi, thank you for stopping by my profile!</samp>
+      <samp>Hi there, thank you for stopping by my profile!</samp>
   </br>
   <samp>
     </br>
