@@ -30,7 +30,7 @@
   </br>
   <samp>
   </br>
-      Reach me @: <a href=mailto:iamtonykipkemboi@gmail.com target="blank">tonykip@seas.upenn.edu</a>
+      Reach me @: <a href=mailto:iamtonykipkemboi@gmail.com target="blank">iamtonykipkemboi@gmail.com</a>
   <br/>
   </samp>
 </p>
