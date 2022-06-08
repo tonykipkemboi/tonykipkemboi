@@ -7,14 +7,14 @@
       <img src="assets/wav.gif" width="450px"> 
     <br/>
      </br>
-      I am a CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
+      I am a part-time CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
     <br/>
     </br>
       <img src="assets/col.svg" width="450px"> 
     </br>
   <br/>
   </br>
-      </br>I am interested in various topics:<br/></br>AI/ML, Venture Capital & Startups, Rare Cancer Research, Cryptocurrency, and Space & Rockets<br/>
+      </br>I am interested in:<br/></br>The Graph Protocol, Web3, and Data Engineering<br/>
   </samp>
   <br/>
   </div>
@@ -25,15 +25,12 @@
   </br>
     <a href="https://www.linkedin.com/in/tonykipkemboi/" target="blank"><samp>Linkedin</samp></a>
   </br>
-    <a href="https://www.hackerrank.com/tonykip" target="blank"><samp>Hackerrank</samp></a>
   </br>
-    <a href="https://leetcode.com/tonykipkemboi/" target="blank"><samp>LeetCode</samp></a>
-  </br>
-    <a href="https://twitter.com/Tonykip92" target="blank"><samp>Twitter</samp></a>
+    <a href="https://twitter.com/ynot_kip" target="blank"><samp>Twitter</samp></a>
   </br>
   <samp>
   </br>
-      Reach me @: <a href=mailto:tonykip@seas.upenn.edu target="blank">tonykip@seas.upenn.edu</a>
+      Reach me @: <a href=mailto:iamtonykipkemboi@gmail.com target="blank">tonykip@seas.upenn.edu</a>
   <br/>
   </samp>
 </p>
