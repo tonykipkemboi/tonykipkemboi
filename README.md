@@ -14,7 +14,7 @@
     </br>
   <br/>
   </br>
-      </br>I am interested in:<br/></br>The Graph Protocol, Web3, and Data Engineering<br/>
+      </br>I am interested in:<br/></br>Blockchain/Web3 topics, and Data Engineering<br/>
   </samp>
   <br/>
   </div>
