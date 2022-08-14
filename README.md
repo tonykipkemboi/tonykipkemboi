@@ -7,7 +7,7 @@
       <img src="assets/wav.gif" width="150px"> 
     <br/>
      </br>
-      I am a part-time CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
+      I am a part-time (currently on LOA) CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
     <br/>
     </br>
       <img src="assets/col.svg" width="150px"> 
@@ -18,7 +18,6 @@
       </br>
             Data Engineering <a href=https://www.boozallen.com/ target="blank">@BoozAllen</a>
            // Subgraph Consultant <a href=https://messari.io/ target="blank">@Messari</a>
-           // Discord Mod <a href=https://ethglobal.com/ target="blank">@ETHGlobal</a>
            // DAO Committee Member <a href=https://www.graphadvocates.com/ target="blank">@AdvocatesDAO/@SubgraphDAO</a>
            // Core Team <a href=https://web3afrika.notion.site/web3afrika/Web3-Afrika-6ff3052980444d6b91b2808cdfb4c9e0 target="blank">@Web3Afrika</a>
            // DAO Member <a href=https://www.developerdao.com/ target="blank">@DeveloperDAO</a>
@@ -26,7 +25,7 @@
   <br/>
   
   </br>
-      </br>Previously worked on:<br/>
+      </br>Previously:<br/>
       </br>
            Enterprise Data Analyst <a href=https://www.bloomberg.com/company/ target="blank">@Bloomberg L.P.</a>
            // Data Engineering Intern <a href=https://www.merck.com/ target="blank">@Merck</a>
