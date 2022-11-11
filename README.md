@@ -16,18 +16,13 @@
   </br>
       </br>I am building and working on:<br/>
       </br>
-            Data Engineering <a href=https://www.boozallen.com/ target="blank">@BoozAllen</a>
-           // Subgraph Consultant <a href=https://messari.io/ target="blank">@Messari</a>
-           // DAO Committee Member <a href=https://www.graphadvocates.com/ target="blank">@AdvocatesDAO/@SubgraphDAO</a>
-           // Core Team <a href=https://web3afrika.notion.site/web3afrika/Web3-Afrika-6ff3052980444d6b91b2808cdfb4c9e0 target="blank">@Web3Afrika</a>
-           // DAO Member <a href=https://www.developerdao.com/ target="blank">@DeveloperDAO</a>
-
+            Developer Relations <a href=https://www.snowflake.com/en/ target="blank">@Snowflake</a>
   <br/>
-  
   </br>
       </br>Previously:<br/>
       </br>
-           Enterprise Data Analyst <a href=https://www.bloomberg.com/company/ target="blank">@Bloomberg L.P.</a>
+           Data Engineer <a href=https://www.boozallen.com/ target="blank">@BoozAllen</a>
+           // Enterprise Data Analyst <a href=https://www.bloomberg.com/company/ target="blank">@Bloomberg L.P.</a>
            // Data Engineering Intern <a href=https://www.merck.com/ target="blank">@Merck</a>
            // Soldier/Genomic Research Assistant <a href=https://usamriid.health.mil/ target="blank">@U.S. Army Medical Research Institute of Infectious Diseases</a>
   <br/>
@@ -40,10 +35,13 @@
     <br/>
   <samp></br> Socials & Stuff: <br/></samp>
   </br>
+    <a href="https://www.youtube.com/@tonykipkemboi" target="blank"><samp>YouTube</samp></a>
+  </br>
+  </br>
     <a href="https://www.linkedin.com/in/tonykipkemboi/" target="blank"><samp>Linkedin</samp></a>
   </br>
   </br>
-    <a href="https://twitter.com/ynot_kip" target="blank"><samp>Twitter</samp></a>
+    <a href="https://twitter.com/_townee" target="blank"><samp>Twitter</samp></a>
   </br>
   <samp>
   </br>
