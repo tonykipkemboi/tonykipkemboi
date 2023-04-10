@@ -41,7 +41,7 @@
     <a href="https://www.linkedin.com/in/tonykipkemboi/" target="blank"><samp>Linkedin</samp></a>
   </br>
   </br>
-    <a href="https://twitter.com/_townee" target="blank"><samp>Twitter</samp></a>
+    <a href="https://twitter.com/tonykipkemboi" target="blank"><samp>Twitter</samp></a>
   </br>
   <samp>
   </br>
