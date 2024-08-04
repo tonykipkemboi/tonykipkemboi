@@ -15,12 +15,13 @@
   </br>
       </br>I am building and working on:<br/>
       </br>
-            Developer Relations <a href=https://www.snowflake.com/en/ target="blank">@Snowflake</a>
+            Developer Advocate <a href=https://www.prefect.io target="blank">@Prefect</a>
   <br/>
   </br>
       </br>Previously:<br/>
       </br>
-           Data Engineer <a href=https://www.boozallen.com/ target="blank">@BoozAllen</a>
+           Developer Relations - Streamlit 🎈 <a href=https://www.snowflake.com/en/ target="blank">@Snowflake</a>
+           // Data Engineer <a href=https://www.boozallen.com/ target="blank">@BoozAllen</a>
            // Enterprise Data Analyst <a href=https://www.bloomberg.com/company/ target="blank">@Bloomberg L.P.</a>
            // Data Engineering Intern <a href=https://www.merck.com/ target="blank">@Merck</a>
            // Soldier & Genomic Research Assistant <a href=https://usamriid.health.mil/ target="blank">@U.S. Army Medical Research Institute of Infectious Diseases</a>
