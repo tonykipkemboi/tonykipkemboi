@@ -13,9 +13,9 @@
       <img src="assets/vc.svg" width="150px">
     </br>
   </br>
-      </br>I am building and working on:<br/>
+      </br>I am building and working on AI Agents:<br/>
       </br>
-            Developer Advocate <a href=https://www.prefect.io target="blank">@Prefect</a>
+            Senior Developer Advocate <a href=https://www.crewai.com target="blank">@crewAI</a>
   <br/>
   </br>
       </br>Previously:<br/>
