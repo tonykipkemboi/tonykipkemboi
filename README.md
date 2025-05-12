@@ -7,7 +7,7 @@
       <img src="assets/wav.gif" width="150px"> 
     <br/>
     </br>
-      I am a part-time (currently on LOA) CS Master's Candidate @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
+      I <del>am a part-time (currently on LOA)</del> dropped out of my CS Master's @ <a href=https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/ target="blank">University of Pennsylvania</a>
     <br/>
     </br>
       <img src="assets/vc.svg" width="150px">
