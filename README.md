@@ -6,16 +6,13 @@
     </br>
       <img src="assets/wav.gif" width="150px"> 
     <br/>
-    </br>
-      I'm learning to fly in my spare time.
-    <br/>
-    </br>
-      <img src="assets/vc.svg" width="150px">
-    </br>
   </br>
-      </br>I am building and working on AI Agents:<br/>
+      </br>I am building and working on AI Agents<br/>
       </br>
             Senior Developer Advocate <a href=https://www.crewai.com target="blank">@crewAI</a>
+  <br/>
+  </br>
+    I'm also learning to fly in my spare time.
   <br/>
   </br>
       </br>Previously:<br/>
