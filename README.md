@@ -7,9 +7,9 @@
       <img src="assets/wav.gif" width="150px"> 
     <br/>
   </br>
-      </br>I am building and working on AI Agents<br/>
+      </br>I am building and working on AI and Agents<br/>
       </br>
-            Senior Developer Advocate <a href=https://www.crewai.com target="blank">@crewAI</a>
+            AI Operations Engineer <a href=https://www.guild.com target="blank">@Guild</a>
   <br/>
   </br>
     I'm also learning to fly in my spare time.
@@ -17,7 +17,7 @@
   </br>
       </br>Previously:<br/>
       </br>
-           Developer Advocate for <a href=https://www.streamlit.io/ target="blank">Streamlit</a>🎈  <a href=https://www.snowflake.com/en/ target="blank">@Snowflake</a>
+           Developer Advocate for <a href=https://www.crewai.com target="blank">@CrewAI</a> & <a href=https://www.streamlit.io/ target="blank">Streamlit</a>🎈  <a href=https://www.snowflake.com/en/ target="blank">@Snowflake</a>
            // Data Engineer <a href=https://www.boozallen.com/ target="blank">@BoozAllen</a>
            // Enterprise Data Analyst <a href=https://www.bloomberg.com/company/ target="blank">@Bloomberg L.P.</a>
            // Data Engineering Intern <a href=https://www.merck.com/ target="blank">@Merck</a>
