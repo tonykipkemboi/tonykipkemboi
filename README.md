@@ -9,7 +9,7 @@
   </br>
       </br>I am building and working on AI and Agents<br/>
       </br>
-            AI Operations Engineer <a href=https://www.guild.com target="blank">@Guild</a>
+            Lead AI Operations Engineer <a href=https://www.guild.com target="blank">@Guild</a>
   <br/>
   </br>
     I'm also learning to fly in my spare time.
